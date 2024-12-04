@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textViewEdad" type="id" />
+    <item name="textViewNombre" type="id" />
+    <item name="textViewNumControl" type="id" />
+    <item name="textViewNumeroControl" type="id" />
+    <item name="recyclerViewNumerosControl" type="id" />
+</resources>
